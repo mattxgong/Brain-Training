@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "Amount of Time Allotted Per Question"; ObjectID = "Bzo-Bm-fqf"; */
+"Bzo-Bm-fqf.text" = "Amount of Time Allotted Per Question";
+
+/* Class = "UITextField"; placeholder = "Lower"; ObjectID = "DIM-dw-BN3"; */
+"DIM-dw-BN3.placeholder" = "Lower";
+
+/* Class = "UILabel"; text = "180   "; ObjectID = "DTo-gk-s5a"; */
+"DTo-gk-s5a.text" = "180   ";
+
+/* Class = "UIButton"; configuration.title = "-"; ObjectID = "DbZ-gX-dEo"; */
+"DbZ-gX-dEo.configuration.title" = "-";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DbZ-gX-dEo"; */
+"DbZ-gX-dEo.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "÷"; ObjectID = "L4I-em-pqQ"; */
+"L4I-em-pqQ.configuration.title" = "÷";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L4I-em-pqQ"; */
+"L4I-em-pqQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "   120"; ObjectID = "OPH-ms-PYV"; */
+"OPH-ms-PYV.text" = "   120";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "Qq6-vl-nN7"; */
+"Qq6-vl-nN7.text" = "to";
+
+/* Class = "UITextField"; placeholder = "Upper"; ObjectID = "RbN-hv-URj"; */
+"RbN-hv-URj.placeholder" = "Upper";
+
+/* Class = "UILabel"; text = "Operations"; ObjectID = "Yta-zT-akj"; */
+"Yta-zT-akj.text" = "Operations";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "c8k-CT-RyE"; */
+"c8k-CT-RyE.text" = "Score: 0";
+
+/* Class = "UILabel"; text = "    1"; ObjectID = "f5q-Pd-HrE"; */
+"f5q-Pd-HrE.text" = "    1";
+
+/* Class = "UITextField"; placeholder = "Answer"; ObjectID = "gu6-M7-Zv0"; */
+"gu6-M7-Zv0.placeholder" = "Answer";
+
+/* Class = "UILabel"; text = "    30"; ObjectID = "hMy-RV-Bhs"; */
+"hMy-RV-Bhs.text" = "    30";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "hmd-9S-SA5"; */
+"hmd-9S-SA5.text" = "+";
+
+/* Class = "UIButton"; configuration.title = "x"; ObjectID = "iEq-4V-6XZ"; */
+"iEq-4V-6XZ.configuration.title" = "x";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iEq-4V-6XZ"; */
+"iEq-4V-6XZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "   90"; ObjectID = "iTM-tD-WPU"; */
+"iTM-tD-WPU.text" = "   90";
+
+/* Class = "UILabel"; text = "   150"; ObjectID = "m1U-SC-lIq"; */
+"m1U-SC-lIq.text" = "   150";
+
+/* Class = "UIButton"; configuration.title = "Check"; ObjectID = "nYD-tc-gQY"; */
+"nYD-tc-gQY.configuration.title" = "Check";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nYD-tc-gQY"; */
+"nYD-tc-gQY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "   60"; ObjectID = "oEr-BF-fn0"; */
+"oEr-BF-fn0.text" = "   60";
+
+/* Class = "UIButton"; configuration.title = "More Time"; ObjectID = "phi-Aa-cfH"; */
+"phi-Aa-cfH.configuration.title" = "More Time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "phi-Aa-cfH"; */
+"phi-Aa-cfH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Timer"; ObjectID = "r4o-ce-k1C"; */
+"r4o-ce-k1C.text" = "Timer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rL8-kl-5uc"; */
+"rL8-kl-5uc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Skip"; ObjectID = "tI9-iH-qCV"; */
+"tI9-iH-qCV.configuration.title" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tI9-iH-qCV"; */
+"tI9-iH-qCV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "tN9-a0-DQd"; */
+"tN9-a0-DQd.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tN9-a0-DQd"; */
+"tN9-a0-DQd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "vQm-C3-myZ"; */
+"vQm-C3-myZ.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vQm-C3-myZ"; */
+"vQm-C3-myZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Range of Values"; ObjectID = "wCe-p6-vm4"; */
+"wCe-p6-vm4.text" = "Range of Values";
+
+/* Class = "UILabel"; text = "numOne"; ObjectID = "wd9-Gr-qCA"; */
+"wd9-Gr-qCA.text" = "numOne";
+
+/* Class = "UILabel"; text = "numTwo"; ObjectID = "wql-3a-SN9"; */
+"wql-3a-SN9.text" = "numTwo";

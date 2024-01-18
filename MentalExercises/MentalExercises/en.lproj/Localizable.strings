@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  MentalExercises
+
+  Created by Grace Chen on 2023-08-29.
+  
+*/
+
+"Timer" = "Timer";
+"Operations" = "Operations";
+"Amount of Time Allotted Per Question" = "Amount of Time Allotted Per Question";
+"Range of Values" = "Range of Values";
+"Welcome to the Mental Exercises App!" = "Welcome to the Mental Exercises App!";
+"Lower" = "Lower";
+"Upper" = "Upper";
+"Check" = "Check";
+"Skip" = "Skip";
+"More Time" = "More Time";
+"Correct!" = "Correct!";
+"Congratulations!" = "Congratulations!";
+"Excellent!" = "Excellent!";
+"Amazing!" = "Amazing!";
+"Great Job!" = "Great Job!";
+"Time's up! The answer is" = "Time's up! The answer is";
+"Sorry, that's wrong. Try Again" = "Sorry, that's wrong. Try Again";
+"Score" = "Score";
+"Answer" = "Answer";
+"Check" = "Check";
+"To" = "To";
+"Infinite Time" = "Infinite Time";

@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MentalExercises
+
+  Created by Grace Chen on 2023-08-29.
+  
+*/
+
+"Timer" = "记时器";
+"Operations" = "数学运算种类";
+"Amount of Time Allotted Per Question" = "每个问题分配的时间量";
+"Range of Values" = "计算数值范围";
+"Welcome to the Mental Exercises App!" = "欢迎来到心理练习应用程序!";
+"Lower" = "最小数";
+"Upper" = "最大数";
+"Skip" = "跳过这一题";
+"More Time" = "更多时间";
+"Correct!" = "正确!";
+"Congratulations!" = "恭喜!";
+"Excellent!" = "很不错！";
+"Amazing!" = "太厉害!";
+"Great Job!" = "真棒!";
+"Time's up! The answer is" = "时间到! 答案是";
+"Sorry, that's wrong. Try Again" = "对不起. 请再试一次";
+"Score" = "分数是";
+"Answer" = "答案";
+"Check" = "检查";
+"To" = "到";
+"Infinite Time" = "无时间限制";
